@@ -1,1 +1,1 @@
-The PEVD-ID dataset and MSA-RTDETR model will coming soon！
+The PEVD-ID dataset will coming soon！
